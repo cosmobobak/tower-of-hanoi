@@ -28,3 +28,5 @@ Would you like to get a printout of the moves to make in order? [Yy/Nn]
 --> Y
 1. Move piece from peg A to C.
 ```
+
+Disc counts in excess of 15 are not recommended.
